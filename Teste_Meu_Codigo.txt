@@ -4,3 +4,6 @@ Para realizar primeiras impressões com o Git
 
 Teste 1.01
 Nova versão para verificação
+
+Teste 1.02
+Nova Branch
